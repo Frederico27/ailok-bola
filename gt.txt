@@ -48,3 +48,36 @@ https://rtm-fifa-wc.flyiptvku.my.id/live/media0/wc2/DASH/wc2.mpd
 https://rtm-fifa-wc.flyiptvku.my.id/live/media0/wc3/DASH/wc3.mpd
 
 ##END LIST
+
+
+#EXTINF:-1 tvg-id="618" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch618_160_115" group-logo="https://img.bolatv.my.id/group/fifa-wc-2026.webp" group-title="NowHK FIFA WC 2026",Now 618
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://now-key.flyiptvku.my.id/?id=618&token=M3m3yd4nm0m0ys4m4s4m43n4k
+https://nowhk.flyins.my.id/?id=618
+
+#EXTINF:-1 tvg-id="619" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch619_160_115" group-title="NowHK FIFA WC 2026",Now 619
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://now-key.flyiptvku.my.id/?id=619&token=M3m3yd4nm0m0ys4m4s4m43n4k
+https://nowhk.flyins.my.id/?id=619
+
+#EXTINF:-1 tvg-id="616" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch616_160_115" group-title="NowHK FIFA WC 2026",Now 616
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://now-key.flyiptvku.my.id/?id=616&token=M3m3yd4nm0m0ys4m4s4m43n4k
+https://nowhk.flyins.my.id/?id=616
+
+#EXTINF:-1 tvg-id="617" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch617_160_115" group-title="NowHK FIFA WC 2026",Now 617
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://now-key.flyiptvku.my.id/?id=617&token=M3m3yd4nm0m0ys4m4s4m43n4k
+https://nowhk.flyins.my.id/?id=617

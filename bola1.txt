@@ -1,0 +1,24 @@
+#EXTINF:-1 tvg-id="TELEMUNDOINT" tvg-logo="https://image-fifa.bolatv.my.id/telemundo-fifa.png" group-logo="https://image-fifa.bolatv.my.id/fifa-extra.webp" group-title="FIFA WC Extra",Telemundo Int
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.peacocktv.com/
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ed5aac3691b33a02ac86d84f886a8a06:6b2cf6dd150416b758d228fc38980473
+https://peacock.flyiptvku.my.id/tele/Content/CMAF_OL2-CTR-4s/Live/channel(WSCV)/master.mpd
+
+#EXTINF:-1 tvg-id="starhub" group-logo="https://image-fifa.bolatv.my.id/starhub-fifa.webp" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/251_1920x1080_HTV.png?w=341&h=192" group-title="Starhub FIFA WC 2026",🟢 FIFA 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RD2A.211001.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.82 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9e695f8c65d74c6a9827a2e35367c086:decde9976ea76d1a91f91d9bf068f413
+https://starhub.flyins.my.id/bpk-tv/FIFAWCCh1/output/manifest.mpd?token=3nt0t4nd3ng4n4n4k4y4m
+
+#EXTINF:-1 tvg-id="starhub" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/252_1920x1080_HTV.png?w=341&h=192" group-title="Starhub FIFA WC 2026",🟢 FIFA 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RD2A.211001.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.82 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6e947fce17d642db9c1a0c45bf718011:dd096e4212597bb1948a78e12490a2ef
+https://starhub.flyins.my.id/bpk-tv/FIFAWCCh2/output/manifest.mpd?token=3nt0t4nd3ng4n4n4k4y4m

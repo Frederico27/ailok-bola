@@ -7,6 +7,38 @@
 #KODIPROP:inputstream.adaptive.license_key=ed5aac3691b33a02ac86d84f886a8a06:6b2cf6dd150416b758d228fc38980473
 https://peacock.flyiptvku.my.id/tele/Content/CMAF_OL2-CTR-4s/Live/channel(WSCV)/master.mpd
 
+#EXTINF:-1 tvg-id="618" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch618_160_115" group-logo="https://img.bolatv.my.id/group/fifa-wc-2026.webp" group-title="NowHK FIFA WC 2026",Now 618
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://stream.flyins.my.id/nowhk-key.php?id=618
+https://nowhk.flyins.my.id/?id=618
+
+#EXTINF:-1 tvg-id="619" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch619_160_115" group-title="NowHK FIFA WC 2026",Now 619
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://stream.flyins.my.id/nowhk-key.php?id=619
+https://nowhk.flyins.my.id/?id=619
+
+#EXTINF:-1 tvg-id="616" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch616_160_115" group-title="NowHK FIFA WC 2026",Now 616
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://stream.flyins.my.id/nowhk-key.php?id=616
+https://nowhk.flyins.my.id/?id=616
+
+#EXTINF:-1 tvg-id="617" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch617_160_115" group-title="NowHK FIFA WC 2026",Now 617
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://stream.flyins.my.id/nowhk-key.php?id=617
+https://nowhk.flyins.my.id/?id=617
+
 #EXTINF:-1 tvg-id="starhub" group-logo="https://image-fifa.bolatv.my.id/starhub-fifa.webp" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/251_1920x1080_HTV.png?w=341&h=192" group-title="Starhub FIFA WC 2026",🟢 FIFA 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RD2A.211001.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.82 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -22,3 +54,28 @@ https://starhub.flyins.my.id/bpk-tv/FIFAWCCh1/output/manifest.mpd?token=3nt0t4nd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6e947fce17d642db9c1a0c45bf718011:dd096e4212597bb1948a78e12490a2ef
 https://starhub.flyins.my.id/bpk-tv/FIFAWCCh2/output/manifest.mpd?token=3nt0t4nd3ng4n4n4k4y4m
+
+#EXTINF:-1 tvg-id="7840842" tvg-logo="https://img.bolatv.my.id/group/feed-b.png" group-logo="https://img.bolatv.my.id/group/world_cup_feed.webp" group-title="FIFA World Feed",FEED 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://go3-keys.iptvproxy.workers.dev/?id=4500921
+https://worldfeed.flyiptvku.my.id/4500921/index.mpd?token=m3m3kb4ut3r5s1t4p13n4k
+
+#EXTINF:-1 tvg-id="4500870" tvg-logo="https://img.bolatv.my.id/group/feed-b.png" group-logo="https://img.bolatv.my.id/group/world_cup_feed.webp" group-title="FIFA World Feed",FEED 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://go3-keys.iptvproxy.workers.dev/?id=4500870
+https://worldfeed.flyiptvku.my.id/4500870/index.mpd?token=m3m3kb4ut3r5s1t4p13n4k
+
+#EXTINF:-1 tvg-id="4500868" tvg-logo="https://img.bolatv.my.id/group/feed-b.png" group-logo="https://img.bolatv.my.id/group/world_cup_feed.webp" group-title="FIFA World Feed",FEED 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+#KODIPROP:inputstreamclass=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://go3-keys.iptvproxy.workers.dev/?id=4500919
+https://worldfeed.flyiptvku.my.id/4500919/index.mpd?token=m3m3kb4ut3r5s1t4p13n4k
+

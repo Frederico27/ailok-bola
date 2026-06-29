@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TELEMUNDOINT" tvg-logo="https://image-fifa.bolatv.my.id/telemundo-fifa.png",Telemundo Int
+#EXTINF:-1 tvg-id="TELEMUNDOINT" tvg-logo="https://image-fifa.bolatv.my.id/telemundo-fifa.png" group-title="World Cup",Telemundo Int
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.peacocktv.com/
 #KODIPROP:inputstreamclass=inputstream.adaptive
@@ -9,7 +9,7 @@
 https://peacock.flyiptvku.my.id/tele/Content/CMAF_OL2-CTR-4s/Live/channel(WSCV)/master.mpd
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/FlyinDVB/vd/main/bein.png" catchup="shift" catchup-days="3" catchup-source="?utc={utc}&lutc={lutc}",🟢 BEIN 21 MAX
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/FlyinDVB/vd/main/bein.png" catchup="shift" catchup-days="3" catchup-source="?utc={utc}&lutc={lutc}" group-title="World Cup",🟢 BEIN 21 MAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
 #KODIPROP:inputstreamclass=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -17,7 +17,7 @@ https://peacock.flyiptvku.my.id/tele/Content/CMAF_OL2-CTR-4s/Live/channel(WSCV)/
 #KODIPROP:inputstream.adaptive.license_key=15df28208ec1f11a3838aa15553b757d:e01cdc4e2654ff6459692113f4e5c5d9
 https://play-bein.flyin-dvb.workers.dev/bein_sports_vflow21/index.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/FlyinDVB/vd/main/bein.png" catchup="shift" catchup-days="3" catchup-source="?utc={utc}&lutc={lutc}",🟢 BEIN 22 MAX
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/FlyinDVB/vd/main/bein.png" catchup="shift" catchup-days="3" catchup-source="?utc={utc}&lutc={lutc}" group-title="World Cup",🟢 BEIN 22 MAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
 #KODIPROP:inputstreamclass=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -25,7 +25,7 @@ https://play-bein.flyin-dvb.workers.dev/bein_sports_vflow21/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=baede983d7181126a2aee2fb9e6f15d3:7063bb9ae2519283d02bf09ea75764b4
 https://play-bein.flyin-dvb.workers.dev/bein_sports_vflow22/index.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/FlyinDVB/vd/main/bein.png" catchup="shift" catchup-days="3" catchup-source="?utc={utc}&lutc={lutc}",🟢 BEIN 23 MAX
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/FlyinDVB/vd/main/bein.png" catchup="shift" catchup-days="3" catchup-source="?utc={utc}&lutc={lutc}" group-title="World Cup",🟢 BEIN 23 MAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
 #KODIPROP:inputstreamclass=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -33,7 +33,7 @@ https://play-bein.flyin-dvb.workers.dev/bein_sports_vflow22/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=d3e91849e5af2bf3299aa884319da48a:6b2adb8e88f8664b580de3c8d53b5c2d
 https://play-bein.flyin-dvb.workers.dev/bein_sports_vflow23/index.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/FlyinDVB/vd/main/bein.png" catchup="shift" catchup-days="3" catchup-source="?utc={utc}&lutc={lutc}",🟢 BEIN 24 MAX
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/FlyinDVB/vd/main/bein.png" catchup="shift" catchup-days="3" catchup-source="?utc={utc}&lutc={lutc}" group-title="World Cup",🟢 BEIN 24 MAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
 #KODIPROP:inputstreamclass=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -41,7 +41,7 @@ https://play-bein.flyin-dvb.workers.dev/bein_sports_vflow23/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=aad4b29853edd451f02c866919ff42e7:4fec3cf11494de8032f3ca43f8f6af2c
 https://play-bein.flyin-dvb.workers.dev/bein_sports_vflow24/index.mpd
 
-#EXTINF:-1 tvg-id="618" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch618_160_115" ,Now 618
+#EXTINF:-1 tvg-id="618" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch618_160_115" group-title="World Cup",Now 618
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
 #KODIPROP:inputstreamclass=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -49,7 +49,7 @@ https://play-bein.flyin-dvb.workers.dev/bein_sports_vflow24/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://stream.flyins.my.id/nowhk-key.php?id=618
 https://nowhk.flyins.my.id/?id=618
 
-#EXTINF:-1 tvg-id="619" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch619_160_115" ,Now 619
+#EXTINF:-1 tvg-id="619" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch619_160_115" group-title="World Cup",Now 619
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
 #KODIPROP:inputstreamclass=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -57,7 +57,7 @@ https://nowhk.flyins.my.id/?id=618
 #KODIPROP:inputstream.adaptive.license_key=https://stream.flyins.my.id/nowhk-key.php?id=619
 https://nowhk.flyins.my.id/?id=619
 
-#EXTINF:-1 tvg-id="616" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch616_160_115" ,Now 616
+#EXTINF:-1 tvg-id="616" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch616_160_115" group-title="World Cup",Now 616
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
 #KODIPROP:inputstreamclass=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -65,7 +65,7 @@ https://nowhk.flyins.my.id/?id=619
 #KODIPROP:inputstream.adaptive.license_key=https://stream.flyins.my.id/nowhk-key.php?id=616
 https://nowhk.flyins.my.id/?id=616
 
-#EXTINF:-1 tvg-id="617" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch617_160_115" ,Now 617
+#EXTINF:-1 tvg-id="617" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch617_160_115" group-title="World Cup",Now 617
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
 #KODIPROP:inputstreamclass=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -73,7 +73,7 @@ https://nowhk.flyins.my.id/?id=616
 #KODIPROP:inputstream.adaptive.license_key=https://stream.flyins.my.id/nowhk-key.php?id=617
 https://nowhk.flyins.my.id/?id=617
 
-#EXTINF:-1 tvg-id="starhub" group-logo="https://image-fifa.bolatv.my.id/starhub-fifa.webp" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/251_1920x1080_HTV.png?w=341&h=192" ,🟢 FIFA 1
+#EXTINF:-1 tvg-id="starhub" group-logo="https://image-fifa.bolatv.my.id/starhub-fifa.webp" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/251_1920x1080_HTV.png?w=341&h=192" group-title="World Cup",🟢 FIFA 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RD2A.211001.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.82 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -81,7 +81,7 @@ https://nowhk.flyins.my.id/?id=617
 #KODIPROP:inputstream.adaptive.license_key=9e695f8c65d74c6a9827a2e35367c086:decde9976ea76d1a91f91d9bf068f413
 https://starhub.flyins.my.id/bpk-tv/FIFAWCCh1/output/manifest.mpd?token=3nt0t4nd3ng4n4n4k4y4m
 
-#EXTINF:-1 tvg-id="starhub" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/252_1920x1080_HTV.png?w=341&h=192" ,🟢 FIFA 2
+#EXTINF:-1 tvg-id="starhub" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/252_1920x1080_HTV.png?w=341&h=192" group-title="World Cup",🟢 FIFA 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SHIELD Android TV Build/RD2A.211001.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.82 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -89,7 +89,7 @@ https://starhub.flyins.my.id/bpk-tv/FIFAWCCh1/output/manifest.mpd?token=3nt0t4nd
 #KODIPROP:inputstream.adaptive.license_key=6e947fce17d642db9c1a0c45bf718011:dd096e4212597bb1948a78e12490a2ef
 https://starhub.flyins.my.id/bpk-tv/FIFAWCCh2/output/manifest.mpd?token=3nt0t4nd3ng4n4n4k4y4m
 
-#EXTINF:-1 tvg-id="7840842" tvg-logo="https://img.bolatv.my.id/group/feed-b.png" ,FEED 1
+#EXTINF:-1 tvg-id="7840842" tvg-logo="https://img.bolatv.my.id/group/feed-b.png" group-title="World Cup",FEED 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
 #KODIPROP:inputstreamclass=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -97,7 +97,7 @@ https://starhub.flyins.my.id/bpk-tv/FIFAWCCh2/output/manifest.mpd?token=3nt0t4nd
 #KODIPROP:inputstream.adaptive.license_key=https://go3-keys.iptvproxy.workers.dev/?id=4500921
 https://worldfeed.flyiptvku.my.id/4500921/index.mpd?token=m3m3kb4ut3r5s1t4p13n4k
 
-#EXTINF:-1 tvg-id="4500870" tvg-logo="https://img.bolatv.my.id/group/feed-b.png" ,FEED 2
+#EXTINF:-1 tvg-id="4500870" tvg-logo="https://img.bolatv.my.id/group/feed-b.png" group-title="World Cup",FEED 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
 #KODIPROP:inputstreamclass=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -105,11 +105,10 @@ https://worldfeed.flyiptvku.my.id/4500921/index.mpd?token=m3m3kb4ut3r5s1t4p13n4k
 #KODIPROP:inputstream.adaptive.license_key=https://go3-keys.iptvproxy.workers.dev/?id=4500870
 https://worldfeed.flyiptvku.my.id/4500870/index.mpd?token=m3m3kb4ut3r5s1t4p13n4k
 
-#EXTINF:-1 tvg-id="4500868" tvg-logo="https://img.bolatv.my.id/group/feed-b.png" ,FEED 3
+#EXTINF:-1 tvg-id="4500868" tvg-logo="https://img.bolatv.my.id/group/feed-b.png" group-title="World Cup",FEED 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
 #KODIPROP:inputstreamclass=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://go3-keys.iptvproxy.workers.dev/?id=4500919
 https://worldfeed.flyiptvku.my.id/4500919/index.mpd?token=m3m3kb4ut3r5s1t4p13n4k
-
